@@ -1,0 +1,1048 @@
+
+html {
+	font-size:66%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 127.5rem;
+}.lista-de-pedidos-4cL {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.lista-de-pedidos-4cL .auto-group-qjor-gdi {
+  box-sizing: border-box;
+  padding: 4.599999999999994rem 0rem 18.7rem 0.4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.lista-de-pedidos-4cL .auto-group-qjor-gdi .auto-group-adit-iD2 {
+  margin: 25px 0rem 5rem 14.1rem;
+  height: 4.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.lista-de-pedidos-4cL .auto-group-qjor-gdi .auto-group-adit-iD2 .link-logo-charitfixpng-1hv {
+  top: -13px;
+  left: -32px;
+  margin-right: 26.1318rem;
+  width: 17.8rem;
+  height: 4.4rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/link-darkpng.png');
+  flex-shrink: 0;
+}
+.lista-de-pedidos-4cL .auto-group-qjor-gdi .auto-group-adit-iD2 .nav-list-item-link-home--fnU {
+  margin-bottom: 0.7234rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  text-transform: capitalize;
+  color: #090e0d;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lista-de-pedidos-4cL .auto-group-qjor-gdi .auto-group-adit-iD2 .auto-group-a5kz-iEx {
+  box-sizing: border-box;
+  padding: 0.438rem 0rem 0.438rem 0.145rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.lista-de-pedidos-4cL .auto-group-qjor-gdi .auto-group-adit-iD2 .auto-group-a5kz-iEx .nav-list-item-link-pYt {
+  margin: 0.6rem 5.272rem 1.323rem 0rem;
+  width: 1.6rem;
+  height: calc(100% - 1.9234rem);
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.lista-de-pedidos-4cL .auto-group-qjor-gdi .auto-group-adit-iD2 .auto-group-a5kz-iEx .nav-list-item-link-contact-KPA {
+  margin-bottom: 1.1234rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  text-transform: capitalize;
+  text-decoration-line: underline;
+  color: #090e0d;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lista-de-pedidos-4cL .auto-group-hgvs-reS {
+  margin: 0rem 25.5rem 9.8rem 0rem;
+  width: 127.1rem;
+  height: 29.7003rem;
+  position: relative;
+  flex-shrink: 0;
+  left: -4px;
+  top: 6px;
+}
+.lista-de-pedidos-4cL .auto-group-hgvs-reS .main-section-N6z {
+  width: 127.5rem;
+  height: 29.6993rem;
+  position: relative;
+  left: 0;
+  top: 0;
+  background-size: 100% 128.267%;
+  background-position: 0 -5.4391rem;
+  background-image: url('../assets/main-section.png');
+}
+.lista-de-pedidos-4cL .auto-group-hgvs-reS .main-section-section-paints-DdQ {
+  width: 127.5rem;
+  height: 29.7rem;
+  position: absolute;
+  left: 0;
+  top: 0.0003rem;
+  background: linear-gradient(90deg, #00715d 27.6%, rgba(171, 185, 183, 0.1299999952) 72.4%);
+}
+.lista-de-pedidos-4cL .auto-group-hgvs-reS .main-section-nav-breadcrumb-HdG {
+  box-sizing: border-box;
+  padding: 1.4rem 3.142rem 1.4rem 2.6rem;
+  width: 25.775rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 7.6rem;
+  top: 8.9003rem;
+  display: flex;
+  align-items: center;
+  background-color: rgba(255, 255, 255, 0.1899999976);
+  border-radius: 1rem;
+}
+.lista-de-pedidos-4cL .auto-group-hgvs-reS .main-section-nav-breadcrumb-HdG .list-item-link-home-xzJ {
+  margin: 0rem 0.733rem 0.2rem 0rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lista-de-pedidos-4cL .auto-group-hgvs-reS .main-section-nav-breadcrumb-HdG .symbol-TAN {
+  margin-right: 1.4rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lista-de-pedidos-4cL .auto-group-hgvs-reS .main-section-nav-breadcrumb-HdG .list-item-link-about-us-akn {
+  margin-bottom: 0.2rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lista-de-pedidos-4cL .auto-group-hgvs-reS .main-section-heading-1-about-us-T3t {
+  width: 19.5rem;
+  height: 4rem;
+  position: absolute;
+  left: 8.9rem;
+  top: 16.6003rem;
+  display: flex;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lista-de-pedidos-4cL .auto-group-qjor-gdi .lista-de-compra-S3n {
+  width: 100%;
+  height: 80rem;
+  position: relative;
+  overflow: hidden;
+  border-top: solid 0.1rem #000000;
+  box-sizing: border-box;
+  border: solid 0.1rem #000000;
+  background-color: #f9fafb;
+  flex-shrink: 0;
+}
+.lista-de-pedidos-4cL .auto-group-qjor-gdi .lista-de-compra-S3n .auto-group-sohe-mbr {
+  width: 37.7rem;
+  height: 13.7rem;
+  position: absolute;
+  left: 3.1rem;
+  top: 5.9rem;
+  display: flex;
+  align-items: center;
+}
+.lista-de-pedidos-4cL .auto-group-qjor-gdi .lista-de-compra-S3n .auto-group-sohe-mbr .b5a9243f67492871c6c3a0ac06ee51c-1-1-6PE {
+  margin-right: 5.75rem;
+  width: 15rem;
+  height: 13.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.lista-de-pedidos-4cL .auto-group-qjor-gdi .lista-de-compra-S3n .auto-group-sohe-mbr .auto-group-88jw-a3W {
+  margin: 1.3rem 0rem 1.1rem 0rem;
+  width: 16.95rem;
+  height: calc(100% - 2.4rem);
+  row-gap: 3.25rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.lista-de-pedidos-4cL .auto-group-qjor-gdi .lista-de-compra-S3n .auto-group-sohe-mbr .auto-group-88jw-a3W .nombre-fusible-soJ {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lista-de-pedidos-4cL .auto-group-qjor-gdi .lista-de-compra-S3n .auto-group-sohe-mbr .auto-group-88jw-a3W .id-fus-bjJ {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lista-de-pedidos-4cL .auto-group-qjor-gdi .lista-de-compra-S3n .auto-group-sohe-mbr .auto-group-88jw-a3W .cantidad-en-stock-15-vma {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lista-de-pedidos-4cL .auto-group-qjor-gdi .lista-de-compra-S3n .ubicacion-paol-de-avionica-TFi {
+  width: 22.4rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 3.1rem;
+  top: 26rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lista-de-pedidos-4cL .auto-group-qjor-gdi .lista-de-compra-S3n .proximo-ingreso-del-producto-31-2-2024-7LG {
+  width: 32.5rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 3.2rem;
+  top: 30.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lista-de-pedidos-4cL .auto-group-qjor-gdi .lista-de-compra-S3n .line-2-C6p {
+  width: 45.3rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0;
+  top: 35.9rem;
+  background-color: #000000;
+}
+.lista-de-pedidos-4cL .auto-group-qjor-gdi .lista-de-compra-S3n .los-fusibles-vienen-en-diferentes-tamaos-y-capacidades-de-corriente-para-adaptarse-a-las-necesidades-especficas-de-los-distintos-circuitos-elctricos-son-ampliamente-utilizados-en-una-variedad-de-aplicaciones-desde-los-sistemas-elctricos-de-los-hogares-y-los-automviles-hasta-los-equipos-electrnicos-y-las-instalaciones-industriales-con-el-fin-de-garantizar-la-seguridad-y-prevenir-posibles-daos-causados-por-condiciones-elctricas-anormales-XPz {
+  width: 80.1rem;
+  height: 12.6rem;
+  position: absolute;
+  left: 1.1rem;
+  top: 63.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.05;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.lista-de-pedidos-4cL .auto-group-qjor-gdi .lista-de-compra-S3n .carrinho-zgt {
+  box-sizing: border-box;
+  padding-bottom: 28.0952rem;
+  width: 42.8rem;
+  height: 80.9rem;
+  position: absolute;
+  left: 85.4rem;
+  top: 0;
+  overflow: hidden;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0 4rem rgba(0, 0, 0, 0.25);
+  background-color: #18181b;
+}
+.lista-de-pedidos-4cL .auto-group-qjor-gdi .lista-de-compra-S3n .carrinho-zgt .card-header-7Fi {
+  margin-bottom: 4.8rem;
+  width: 100%;
+  height: 7.2rem;
+  border: solid 0.1rem #3f3f46;
+  box-sizing: border-box;
+  background-color: #18181b;
+  flex-shrink: 0;
+}
+.lista-de-pedidos-4cL .auto-group-qjor-gdi .lista-de-compra-S3n .carrinho-zgt .products-scroll-SHz {
+  margin: 0rem 3.2rem 0rem 3rem;
+  width: calc(100% - 6.2rem);
+  row-gap: 4.8rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.lista-de-pedidos-4cL .auto-group-qjor-gdi .lista-de-compra-S3n .carrinho-zgt .products-scroll-SHz .product-card-xGL {
+  margin-left: 0.2rem;
+  width: calc(100% - 0.2rem);
+  height: 10.4rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.lista-de-pedidos-4cL .auto-group-qjor-gdi .lista-de-compra-S3n .carrinho-zgt .products-scroll-SHz .product-card-xGL .product-image-HZW {
+  margin-right: 2.4rem;
+  width: 10.4rem;
+  height: 10.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.lista-de-pedidos-4cL .auto-group-qjor-gdi .lista-de-compra-S3n .carrinho-zgt .products-scroll-SHz .product-card-xGL .main-aoW {
+  height: 10.6122rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.lista-de-pedidos-4cL .auto-group-qjor-gdi .lista-de-compra-S3n .carrinho-zgt .products-scroll-SHz .product-card-xGL .main-aoW .monitor-gamer-curvo-49-dqhd-240hz-1ms-hdmi-e-displayport-hdr-1000-freesync-premium-ajuste-de-altura-lc49g95tsslxzd-w8G {
+  margin-bottom: 5.1758rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #e4e4e7;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lista-de-pedidos-4cL .auto-group-qjor-gdi .lista-de-compra-S3n .carrinho-zgt .products-scroll-SHz .product-card-xGL .main-aoW .bottom-content-188 {
+  width: 9.7rem;
+  height: 3.0364rem;
+  flex-shrink: 0;
+}
+.lista-de-pedidos-4cL .auto-group-qjor-gdi .lista-de-compra-S3n .carrinho-zgt .products-scroll-SHz .product-card-xGL .main-aoW .bottom-content-188 .stepper-A12 {
+  margin: 0rem 5.683rem 0.212rem 0rem;
+  width: 4.0169rem;
+  height: 2.8242rem;
+  overflow: hidden;
+  position: relative;
+}
+.lista-de-pedidos-4cL .auto-group-qjor-gdi .lista-de-compra-S3n .carrinho-zgt .products-scroll-SHz .product-card-xGL .main-aoW .bottom-content-188 .stepper-A12 .auto-group-meut-UnQ {
+  width: 100%;
+  height: 4.0242rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #f3f4f6;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lista-de-pedidos-4cL .auto-group-qjor-gdi .lista-de-compra-S3n .carrinho-zgt .products-scroll-SHz .product-card-YXN {
+  margin-right: 0.2rem;
+  box-sizing: border-box;
+  padding-right: 2.5rem;
+  width: calc(100% - 0.2rem);
+  height: 10.4rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.lista-de-pedidos-4cL .auto-group-qjor-gdi .lista-de-compra-S3n .carrinho-zgt .products-scroll-SHz .product-card-YXN .product-image-GTN {
+  margin-right: 2.4rem;
+  width: 10.4rem;
+  height: 10.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.lista-de-pedidos-4cL .auto-group-qjor-gdi .lista-de-compra-S3n .carrinho-zgt .products-scroll-SHz .product-card-YXN .main-bEk {
+  height: 10.6122rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.lista-de-pedidos-4cL .auto-group-qjor-gdi .lista-de-compra-S3n .carrinho-zgt .products-scroll-SHz .product-card-YXN .main-bEk .monitor-gamer-curvo-49-dqhd-240hz-1ms-hdmi-e-displayport-hdr-1000-freesync-premium-ajuste-de-altura-lc49g95tsslxzd-Yvg {
+  margin-bottom: 2.7758rem;
+  max-width: 21.1rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #e4e4e7;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.lista-de-pedidos-4cL .auto-group-qjor-gdi .lista-de-compra-S3n .carrinho-zgt .products-scroll-SHz .product-card-YXN .main-bEk .bottom-content-RUg {
+  width: 8.2rem;
+  height: 3.0364rem;
+  flex-shrink: 0;
+}
+.lista-de-pedidos-4cL .auto-group-qjor-gdi .lista-de-compra-S3n .carrinho-zgt .products-scroll-SHz .product-card-YXN .main-bEk .bottom-content-RUg .stepper-Nep {
+  margin: 0rem 4.183rem 0.212rem 0rem;
+  width: 4.0169rem;
+  height: 2.8242rem;
+  overflow: hidden;
+  position: relative;
+}
+.lista-de-pedidos-4cL .auto-group-qjor-gdi .lista-de-compra-S3n .carrinho-zgt .products-scroll-SHz .product-card-YXN .main-bEk .bottom-content-RUg .stepper-Nep .auto-group-vuip-uPr {
+  width: 100%;
+  height: 4.0242rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #f3f4f6;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lista-de-pedidos-4cL .auto-group-qjor-gdi .lista-de-compra-S3n .carrinho-zgt .products-scroll-SHz .auto-group-6hvv-Cdr {
+  width: 36.4rem;
+  height: 10.4048rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.lista-de-pedidos-4cL .auto-group-qjor-gdi .lista-de-compra-S3n .carrinho-zgt .products-scroll-SHz .auto-group-6hvv-Cdr .product-card-MWk {
+  width: 36.4rem;
+  height: 10.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  display: flex;
+  align-items: flex-end;
+  border-radius: 0.4rem;
+}
+.lista-de-pedidos-4cL .auto-group-qjor-gdi .lista-de-compra-S3n .carrinho-zgt .products-scroll-SHz .auto-group-6hvv-Cdr .product-card-MWk .product-image-tFn {
+  margin-right: 2.4rem;
+  width: 10.4rem;
+  height: 10.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.lista-de-pedidos-4cL .auto-group-qjor-gdi .lista-de-compra-S3n .carrinho-zgt .products-scroll-SHz .auto-group-6hvv-Cdr .product-card-MWk .main-cha {
+  width: 32.4rem;
+  height: 7.6rem;
+  flex-shrink: 0;
+}
+.lista-de-pedidos-4cL .auto-group-qjor-gdi .lista-de-compra-S3n .carrinho-zgt .products-scroll-SHz .auto-group-6hvv-Cdr .product-card-MWk .main-cha .monitor-gamer-curvo-49-dqhd-240hz-1ms-hdmi-e-displayport-hdr-1000-freesync-premium-ajuste-de-altura-lc49g95tsslxzd-Ngk {
+  max-width: 23.1rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #e4e4e7;
+  font-family: Inter, 'Source Sans Pro';
+}
+.lista-de-pedidos-4cL .auto-group-qjor-gdi .lista-de-compra-S3n .carrinho-zgt .products-scroll-SHz .auto-group-6hvv-Cdr .item-1-3nt {
+  width: 0.8rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 14.4048rem;
+  top: 8.8048rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #f3f4f6;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lista-de-pedidos-4cL .auto-group-qjor-gdi .lista-de-compra-S3n .descripcion-un-fusible-es-un-dispositivo-elctrico-diseado-para-proteger-un-circuito-elctrico-de-sobrecargas-de-corriente-consiste-en-un-conductor-metlico-que-se-coloca-en-serie-con-el-circuito-que-se-desea-proteger-el-fusible-est-diseado-para-fundirse-o-romperse-cuando-la-corriente-que-pasa-a-travs-de-l-excede-un-cierto-nivel-predeterminado-cuando-la-corriente-que-fluye-a-travs-del-circuito-es-normal-el-fusible-permanece-intacto-y-permite-que-la-electricidad-circule-sin-problemas-sin-embargo-cuando-la-corriente-supera-el-lmite-seguro-el-conductor-dentro-del-fusible-se-calienta-rpidamente-debido-a-la-resistencia-elctrica-y-finalmente-se-funde-o-se-rompe-interrumpiendo-as-el-flujo-de-corriente-y-protegiendo-el-circuito-elctrico-de-daos-mayores-como-cortocircuitos-o-sobrecargas-GQk {
+  width: 78rem;
+  height: 23.1rem;
+  position: absolute;
+  left: 3.3rem;
+  top: 39rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.05;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.lista-de-pedidos-4cL .footer-Ziv {
+  width: 100%;
+  height: 47.3rem;
+  position: relative;
+  background: linear-gradient(267.95deg, #222928 148%, #090e0d 199.4%);
+  flex-shrink: 0;
+}
+.lista-de-pedidos-4cL .footer-Ziv .before-6yk {
+  width: 89.0023rem;
+  height: 47.3rem;
+  position: relative;
+  left: 0;
+  top: 0;
+  background-size: 43.683% 88.668%;
+  background-position: 42.7668rem 3.7rem;
+  background-image: url('../assets/before.png');
+}
+.lista-de-pedidos-4cL .footer-Ziv .divcontainer-a8E {
+  width: 115.5rem;
+  height: 39.8rem;
+  position: absolute;
+  left: 5.7rem;
+  top: 7rem;
+}
+.lista-de-pedidos-4cL .footer-Ziv .divcontainer-a8E .auto-group-cxoc-sNE {
+  margin: 0rem 0rem 5rem 5rem;
+  display: flex;
+  align-items: center;
+}
+.lista-de-pedidos-4cL .footer-Ziv .divcontainer-a8E .auto-group-cxoc-sNE .link-logo-charitfixpng-zBx {
+  margin-right: 29.295rem;
+  width: 17.8rem;
+  height: 4.4rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/link-darkpng.png');
+  flex-shrink: 0;
+}
+.lista-de-pedidos-4cL .footer-Ziv .divcontainer-a8E .auto-group-cxoc-sNE .nav-list-item-link-home-5UJ {
+  margin: 0rem 5.905rem 0.2rem 0rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  text-decoration-line: underline;
+  flex-shrink: 0;
+}
+.lista-de-pedidos-4cL .footer-Ziv .divcontainer-a8E .auto-group-cxoc-sNE .nav-list-item-link-insumos-y3t{
+  margin: 0rem 5.905rem 0.2rem 0rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lista-de-pedidos-4cL .footer-Ziv .divcontainer-a8E .auto-group-cxoc-sNE .nav-list-item-link-instrumentos-hku {
+  margin: 0rem 5.905rem 0.2rem 0rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lista-de-pedidos-4cL .footer-Ziv .divcontainer-a8E .auto-group-cxoc-sNE .nav-list-item-link-contact-1WN {
+  margin-top: 0.2rem;
+  margin-left: 30px;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lista-de-pedidos-4cL .footer-Ziv .divcontainer-a8E .separator-JVU {
+  width: 100%;
+  height: 0.2rem;
+  overflow: hidden;
+  position: relative;
+  border: solid 0.1rem rgba(93, 107, 105, 0.25);
+  box-sizing: border-box;
+}
+.lista-de-pedidos-4cL .divcontainer-a8E .auto-group-jzml-oBL {
+  box-sizing: border-box;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.lista-de-pedidos-4cL .footer-Ziv .divcontainer-a8E .auto-group-jzml-oBL .auto-group-xcul-iZC {
+  margin-bottom: 1.95rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.lista-de-pedidos-4cL .footer-Ziv .divcontainer-a8E .auto-group-jzml-oBL .auto-group-xcul-iZC .heading-4-explore-links-47G {
+  margin-right: 13.922rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lista-de-pedidos-4cL .footer-Ziv .divcontainer-a8E .auto-group-jzml-oBL .auto-group-xcul-iZC .heading-4-get-support-VCa {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lista-de-pedidos-4cL .footer-Ziv .divcontainer-a8E .auto-group-jzml-oBL .auto-group-5uyr-cnz {
+  margin-bottom: 0.45rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.lista-de-pedidos-4cL .footer-Ziv .divcontainer-a8E .auto-group-jzml-oBL .auto-group-5uyr-cnz .list-item-link-about-company-xbx {
+  margin-right: 21.322rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5625;
+  color: #949b95;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lista-de-pedidos-4cL .footer-Ziv .divcontainer-a8E .auto-group-jzml-oBL .auto-group-5uyr-cnz .list-item-vSJ {
+  margin: 0.05rem 1rem 0rem 0rem;
+  width: 3rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.lista-de-pedidos-4cL .footer-Ziv .divcontainer-a8E .auto-group-jzml-oBL .auto-group-5uyr-cnz .list-item-link-donationgmailcom-1yY {
+  margin-top: 0.3rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5625;
+  text-decoration-line: underline;
+  color: #949b95;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lista-de-pedidos-4cL .footer-Ziv .divcontainer-a8E .auto-group-jzml-oBL .auto-group-tcnr-gpn {
+  margin-bottom: 0.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.lista-de-pedidos-4cL .footer-Ziv .divcontainer-a8E .auto-group-jzml-oBL .auto-group-tcnr-gpn .auto-group-dkmg-dk2 {
+  margin: 0.05rem 12.222rem 0rem 0rem;
+  height: 6rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.lista-de-pedidos-4cL .footer-Ziv .divcontainer-a8E .auto-group-jzml-oBL .auto-group-tcnr-gpn .auto-group-dkmg-dk2 .list-item-link-latest-projects-m5Y {
+  margin-bottom: 1rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5625;
+  color: #949b95;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lista-de-pedidos-4cL .footer-Ziv .divcontainer-a8E .auto-group-jzml-oBL .auto-group-tcnr-gpn .auto-group-dkmg-dk2 .list-item-link-latest-blog-4aS {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5625;
+  color: #949b95;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lista-de-pedidos-4cL .footer-Ziv .divcontainer-a8E .auto-group-jzml-oBL .auto-group-tcnr-gpn .auto-group-nrsq-Nr2 {
+  margin: 0rem 15.222rem 0.05rem 0rem;
+  height: 6rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.lista-de-pedidos-4cL .footer-Ziv .divcontainer-a8E .auto-group-jzml-oBL .auto-group-tcnr-gpn .list-item-hmp {
+  margin: 0.05rem 1rem 0rem -15rem;
+  width: 3rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.lista-de-pedidos-4cL .footer-Ziv .divcontainer-a8E .auto-group-jzml-oBL .auto-group-tcnr-gpn .list-item-link-88-111-222-333-RSv {
+  margin-top: 0.05rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5625;
+  color: #949b95;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lista-de-pedidos-4cL .footer-Ziv .divcontainer-a8E .auto-group-jzml-oBL .auto-group-emjn-Y1k {
+  margin-bottom: 0.95rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.lista-de-pedidos-4cL .footer-Ziv .divcontainer-a8E .auto-group-jzml-oBL .auto-group-emjn-Y1k .list-item-qf4 {
+  margin-right: -26rem;
+  margin-left: 291px;
+  width: 3rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.lista-de-pedidos-4cL .footer-Ziv .divcontainer-a8E .auto-group-jzml-oBL .auto-group-emjn-Y1k .list-item-link-tropical-cyclone-volcano-vwQ {
+  margin-left: 286px;
+  margin-bottom: 0.25rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5625;
+  color: #949b95;
+  font-family: Inter, 'Source Sans Pro';
+  text-decoration-line: underline;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lista-de-pedidos-4cL .footer-Ziv .auto-group-jzml-oBL .auto-group-ounz-e6i {
+  margin-right: 82.178rem;
+  width: calc(100% - 82.178rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.lista-de-pedidos-4cL .footer-Ziv .divcontainer-a8E .separator-PyQ {
+  width: 98%;
+  height: 1.2rem;
+  overflow: hidden;
+  position: relative;
+  border: solid 0.1rem rgba(93, 107, 105, 0.25);
+  box-sizing: border-box;
+}
+.lista-de-pedidos-4cL .footer-Ziv .copyright-2023-inittheme-all-rights-reserved-8g6 {
+  width: 36.7rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 5.1141rem;
+  top: 32.8rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5625;
+  color: #949b95;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lista-de-pedidos-4cL .footer-Ziv .list-item-link-ZmQ {
+  width: 3.8rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 98.6rem;
+  top: 32.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 1rem;
+}
+.lista-de-pedidos-4cL .footer-Ziv .list-item-link-rEi {
+  width: 3.8rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 103.8rem;
+  top: 32.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 1rem;
+}
+.lista-de-pedidos-4cL .footer-Ziv .list-item-link-Umt {
+  width: 3.8rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 109.2rem;
+  top: 32.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 1rem;
+} 
+.nav * {
+  box-sizing: border-box;
+  transition: all .35s ease;
+}
+
+.nav li {
+  display: inline-block;
+  list-style: outside none none;
+  margin: .5em 10px; /* Ajustado el margen vertical */
+  padding: 0;
+}
+
+.nav a {
+  padding: .5em .8em;
+  color: rgb(0, 0, 0);
+  position: relative;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.nav a::before,
+.nav a::after {
+  content: '';
+  height: 14px;
+  width: 14px;
+  position: absolute;
+  transition: all .35s ease;
+  opacity: 0;
+}
+
+.nav a::before {
+  right: 0;
+  top: 0;
+  border-top: 3px solid #3E8914;
+  border-right: 3px solid #2E640F;
+  transform: translate(-100%, 50%);
+}
+
+.nav a:after {
+  left: 0;
+  bottom: 0;
+  border-bottom: 3px solid #2E640F;
+  border-left: 3px solid #3E8914;
+  transform: translate(100%, -50%);
+}
+
+.nav a:hover:before,
+.nav a:hover:after {
+  transform: translate(0, 0);
+  opacity: 1;
+}
+
+.nav a:hover {
+  color: #3DA35D;
+}
+
+/* Dropdown Styles */
+.dropdown,
+.dropdown2 {
+  position: relative;
+  display: inline-block;
+  margin-right: 10px; /* Ajusta el margen entre Insumos e Instrumentos */
+}
+
+.dropbtn,
+.dropbtn2 {
+  padding: .5em .8em;
+  color: rgb(0, 0, 0);
+  background-color: transparent;
+  border: none;
+  font-size: 20px;
+  cursor: pointer;
+  position: relative;
+}
+
+.dropbtn:hover,
+.dropbtn2:hover {
+  color: #3DA35D;
+}
+
+.dropbtn:hover::before,
+.dropbtn:hover::after,
+.dropbtn2:hover::before,
+.dropbtn2:hover::after {
+  transform: translate(0, 0);
+  opacity: 1;
+}
+
+.dropdown-content,
+.dropdown-content2 {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+  z-index: 1;
+  border-radius: 4px;
+  padding: 8px 0;
+}
+
+.dropdown-content a,
+.dropdown-content2 a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover,
+.dropdown-content2 a:hover {
+  background-color: #f1f1f1;
+}
+
+.dropdown:hover .dropdown-content,
+.dropdown2:hover .dropdown-content,
+.dropdown2:hover .dropdown-content2 {
+  display: block;
+}
+.dropdown3,
+.dropdown4 {
+  position: relative;
+  display: inline-block;
+}
+
+.dropbtn3,
+.dropbtn4 {
+  padding: .5em .8em;
+  color: rgb(0, 0, 0);
+  background-color: transparent;
+  border: none;
+  font-size: 20px;
+  cursor: pointer;
+  position: relative;
+  margin-right: 10px;
+}
+
+.dropbtn3:hover,
+.dropbtn4:hover {
+  color: #3DA35D;
+}
+
+.dropbtn3:hover::before,
+.dropbtn3:hover::after,
+.dropbtn4:hover::before,
+.dropbtn4:hover::after {
+  transform: translate(0, 0);
+  opacity: 1;
+}
+
+.dropdown-content3,
+.dropdown-content4 {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+  z-index: 1;
+  border-radius: 4px;
+  padding: 8px 0;
+}
+
+.dropdown-content3 a,
+.dropdown-content4 a {
+  color: rgb(0, 0, 0);
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content3 a:hover,
+.dropdown-content4 a:hover {
+  background-color: #f1f1f1;
+}
+
+.dropdown3:hover .dropdown-content3,
+.dropdown4:hover .dropdown-content4 {
+  display: block;
+}
+.nav-list-item-link-contact-1WN {
+  padding: .5em .8em;
+  color: rgba(0, 0, 0, 0.5);
+  position: relative;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.nav-list-item-link-contact-1WN:hover {
+  color: #3DA35D;
+}
+
+.nav-list-item-link-contact-1WN:hover:before,
+.nav-list-item-link-contact-1WN:hover:after {
+  transform: translate(0, 0);
+  opacity: 1;
+}

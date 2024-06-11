@@ -1,0 +1,962 @@
+
+html {
+	font-size:66%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 121.7rem;
+}.home-1-19p {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.home-1-19p .auto-group-lndl-eCn {
+  box-sizing: border-box;
+  padding: 6.1rem 1.6rem 15.9rem 2.5rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-1-19p .auto-group-lndl-eCn .header-div {
+  margin: 0rem 16.5rem 11.2rem 8.7rem;
+  width: calc(100% - 17.2rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-1-19p .auto-group-lndl-eCn .header-div .link-logo-charitfixpng-XpJ {
+  left: 2.9rem;
+  margin-right: auto;
+  top: -0.6875rem;
+  width: 17.8rem;
+  height: 4.4rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/link-darkpng.png');
+  flex-shrink: 0;
+}
+.home-1-19p .auto-group-lndl-eCn .header-div .nav-list-item-link-home--oG2 {
+  margin-left: 25.4rem;
+  margin-right: 15rem;
+  margin-top: -1.9rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 2.5;
+  text-transform: capitalize;
+  text-decoration-line: underline;
+  color: #00715d;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-1-19p .auto-group-lndl-eCn .header-div .nav-list-item-link-contact-bbC {
+  margin-left: 7rem;
+  margin-top: -1.25rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  text-transform: capitalize;
+  text-decoration-line: underline;
+  color: #090e0d;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-1-19p .auto-group-lndl-eCn .auto-group-qezz-fLA {
+  margin-bottom: 9.25rem;
+  width: 100%;
+  display: flex;
+  column-gap: 9.9rem;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.home-1-19p .auto-group-lndl-eCn .auto-group-qezz-fLA .main-section-C5C {
+  margin-top: 1rem;
+  box-sizing: border-box;
+  padding: 2.3rem 4.3rem 4.5rem 3.4rem;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.4rem 10rem rgba(0, 0, 0, 0.150000006);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.home-1-19p .auto-group-lndl-eCn .auto-group-qezz-fLA .main-section-C5C .divinfo-icon-6gN {
+  margin: 0rem 0rem 1.2rem 1.3rem;
+  width: 6rem;
+  height: 6rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 3.5rem;
+  flex-shrink: 0;
+}
+.home-1-19p .auto-group-lndl-eCn .auto-group-qezz-fLA .main-section-C5C .heading-4-speak-hope-for-the-homeless-12e {
+  margin: 0rem 0rem 2.75rem 0.5rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  text-decoration-line: underline;
+  color: #00715d;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-1-19p .auto-group-lndl-eCn .auto-group-qezz-fLA .main-section-C5C .esta-pagina-web-se-presenta-como-una-herramienta-de-ayuda-para-los-alumnos-de-sptimo-ao-tML {
+  max-width: 24.9rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.6000000238;
+  color: #505a59;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-1-19p .auto-group-lndl-eCn .auto-group-qezz-fLA .main-section-2bx {
+  box-sizing: border-box;
+  padding: 1.8rem 2.8rem 2.05rem 4.7rem;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.4rem 10rem rgba(0, 0, 0, 0.150000006);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.home-1-19p .auto-group-lndl-eCn .auto-group-qezz-fLA .main-section-2bx .divinfo-icon-LsY {
+  margin: 0rem 1.9rem 1.6rem 0rem;
+  width: 6rem;
+  height: 6rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 3.5rem;
+  flex-shrink: 0;
+}
+.home-1-19p .auto-group-lndl-eCn .auto-group-qezz-fLA .main-section-2bx .heading-4-speak-hope-for-the-homeless-3mx {
+  margin: 0rem 1rem 0.7rem 0rem;
+  max-width: 19.9rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  text-decoration-line: underline;
+  color: #00715d;
+  font-family: Open Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-1-19p .auto-group-lndl-eCn .auto-group-qezz-fLA .main-section-2bx .esta-pagina-tiene-como-objetivo-ayudar-a-los-alumnos-en-la-obtencin-de-instrumentos-e-insumos-para-realizar-los-proyectos-para-aprobar-de-ao-jen {
+  max-width: 25.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.9692307986;
+  color: #505a59;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-1-19p .auto-group-lndl-eCn .auto-group-qezz-fLA .main-section-6te {
+  box-sizing: border-box;
+  padding: 2.3rem 3.65rem 0.95rem 3.75rem;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.4rem 10rem rgba(0, 0, 0, 0.150000006);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.home-1-19p .auto-group-lndl-eCn .auto-group-qezz-fLA .main-section-6te .divinfo-icon-1Ev {
+  margin: 0rem 0rem 1.2rem 0.3rem;
+  width: 6rem;
+  height: 6rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 3.5rem;
+  flex-shrink: 0;
+}
+.home-1-19p .auto-group-lndl-eCn .auto-group-qezz-fLA .main-section-6te .heading-4-speak-hope-for-the-homeless-XUA {
+  margin: 0rem 1rem 1.1rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  text-decoration-line: underline;
+  color: #00715d;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-1-19p .auto-group-lndl-eCn .auto-group-qezz-fLA .main-section-6te .en-esta-pagina-vas-a-poder-pedir-los-instrumentos-y-materiales-que-vayas-a-necesitar-tambin-vas-a-ver-los-datos-del-instrumento-o-insumo-2A2 {
+  max-width: 25.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.6000000238;
+  color: #505a59;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-1-19p .auto-group-lndl-eCn .auto-group-acf8-RT4 {
+  margin: 0rem 8.6rem 11.05rem 12.6rem;
+  width: calc(100% - 36.2rem);
+  height: 28.45rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-1-19p .auto-group-lndl-eCn .auto-group-acf8-RT4 .main-section-K2e {
+  margin-right: 19.2rem;
+  box-sizing: border-box;
+  padding: 2.3rem 1.45rem 0.8rem 3.65rem;
+  width: 32.6rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.4rem 10rem rgba(0, 0, 0, 0.150000006);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.home-1-19p .auto-group-lndl-eCn .auto-group-acf8-RT4 .main-section-K2e .auto-group-yvle-Kgr {
+  margin-bottom: 0.1rem;
+  width: 100%;
+  height: 12.35rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-1-19p .auto-group-lndl-eCn .auto-group-acf8-RT4 .main-section-K2e .auto-group-yvle-Kgr .divinfo-icon-THG {
+  width: 6rem;
+  height: 6rem;
+  position: absolute;
+  left: 9.35rem;
+  top: -0.1875rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 3.5rem;
+}
+.home-1-19p .auto-group-lndl-eCn .auto-group-acf8-RT4 .main-section-K2e .auto-group-yvle-Kgr .heading-4-speak-hope-for-the-homeless-W94 {
+  width: 27.5rem;
+  height: 6rem;
+  position: absolute;
+  left: 0;
+  top: 6.35rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  text-decoration-line: underline;
+  color: #00715d;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+.home-1-19p .auto-group-lndl-eCn .auto-group-acf8-RT4 .main-section-K2e .cuando-algun-instrumento-no-se-encuentre-disponible-se-mostrara-en-la-sub-lista-de-instrumentos-en-no-stock-y-se-tendr-que-esperar-hasta-que-el-instrumento-deje-de-ser-utilizado-Xpr {
+  margin-right: 1.8rem;
+  max-width: 24rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.9692307986;
+  color: #505a59;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-1-19p .auto-group-lndl-eCn .auto-group-acf8-RT4 .main-section-gbG {
+  box-sizing: border-box;
+  padding: 2.3rem 2.248rem 2.4rem 1.352rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.4rem 10rem rgba(0, 0, 0, 0.150000006);
+  background-color: #fcfcfc;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.home-1-19p .auto-group-lndl-eCn .auto-group-acf8-RT4 .main-section-gbG .divinfo-icon-neJ {
+  margin: 0rem 0rem 0.1rem 1.297rem;
+  width: 6rem;
+  height: 6rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 3.5rem;
+  flex-shrink: 0;
+}
+.home-1-19p .auto-group-lndl-eCn .auto-group-acf8-RT4 .main-section-gbG .heading-4-speak-hope-for-the-homeless-gUn {
+  margin-bottom: 0.35rem;
+  max-width: 29rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  text-decoration-line: underline;
+  color: #00715d;
+  font-family: Open Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-1-19p .auto-group-lndl-eCn .auto-group-acf8-RT4 .main-section-gbG .cuando-los-insumos-se-agotan-aparecer-el-insumo-en-la-lista-sin-stocks-junto-a-una-fecha-aprox-de-cuando-vuelva-a-estar-disponible-BRY {
+  margin-left: 0.7966rem;
+  max-width: 24.9rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.7066666921;
+  color: #505a59;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-1-19p .auto-group-lndl-eCn .component-6-Y9c {
+  margin: 0rem 11.2rem 0rem 8.3rem;
+  box-sizing: border-box;
+  padding-left: 126rem;
+  width: calc(100% - 17.5rem);
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  column-gap: 26.9rem;
+  align-items: center;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/descarga-8-1-bg-HUS.png');
+  border-radius: 2.7rem;
+  flex-shrink: 0;
+}
+.home-1-19p .auto-group-lndl-eCn .component-6-Y9c .images-3-1-DmY {
+  width: 100.1rem;
+  height: 61rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2.7rem;
+  flex-shrink: 0;
+}
+.home-1-19p .auto-group-lndl-eCn .component-6-Y9c .descarga-9-1-jjt {
+  width: 100.1rem;
+  height: 61rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2.7rem;
+  flex-shrink: 0;
+}
+.home-1-19p .auto-group-lndl-eCn .component-6-Y9c .soldando-1-ftS {
+  width: 100.1rem;
+  height: 61rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2.7rem;
+  flex-shrink: 0;
+}
+.home-1-19p .footer-Ziv {
+  width: 109.5%;
+  height: 50.3rem;
+  position: relative;
+  background: linear-gradient(267.95deg, #222928 148%, #090e0d 199.4%);
+  flex-shrink: 0;
+}
+.home-1-19p .footer-Ziv .before-6yk {
+  width: 100.0023rem;
+  height: 50.3rem;
+  position: relative;
+  left: 18.0625rem;
+  top: 0;
+  background-size: 43.683% 88.668%;
+  background-position: 42.7668rem 3.7rem;
+  background-image: url('../assets/before.png');
+}
+.home-1-19p .footer-Ziv .divcontainer-a8E {
+  width: 115.5rem;
+  height: 43.3rem;
+  position: absolute;
+  left: 10.375rem;
+  top: 7rem;
+}
+.home-1-19p .footer-Ziv .divcontainer-a8E .auto-group-cxoc-sNE {
+  margin: 0rem 0rem 5rem 5rem;
+  display: flex;
+  align-items: center;
+}
+.home-1-19p .footer-Ziv .divcontainer-a8E .auto-group-cxoc-sNE .link-logo-charitfixpng-zBx {
+  margin-right: 29.295rem;
+  width: 17.8rem;
+  height: 4.4rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/link-darkpng.png');
+  flex-shrink: 0;
+}
+.home-1-19p .footer-Ziv .divcontainer-a8E .auto-group-cxoc-sNE .nav-list-item-link-home-5UJ {
+  margin: 0rem 5.905rem 0.2rem 0rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  text-decoration-line: underline;
+  flex-shrink: 0;
+}
+.home-1-19p .footer-Ziv .divcontainer-a8E .auto-group-cxoc-sNE .nav-list-item-link-insumos-y3t{
+  margin: 0rem 5.905rem 0.2rem 0rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-1-19p .footer-Ziv .divcontainer-a8E .auto-group-cxoc-sNE .nav-list-item-link-instrumentos-hku {
+  margin: 0rem 5.905rem 0.2rem 0rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-1-19p .footer-Ziv .divcontainer-a8E .auto-group-cxoc-sNE .nav-list-item-link-contact-1WN {
+  margin-top: 0.2rem;
+  margin-left: 1.875rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-1-19p .footer-Ziv .divcontainer-a8E .separator-JVU {
+  width: 100%;
+  height: 0.2rem;
+  overflow: hidden;
+  position: relative;
+  border: solid 0.1rem rgba(93, 107, 105, 0.25);
+  box-sizing: border-box;
+}
+.home-1-19p .footer-Ziv .divcontainer-a8E .auto-group-jzml-oBL {
+  box-sizing: border-box;
+  padding: 7rem 0rem 0rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.home-1-19p .footer-Ziv .divcontainer-a8E .auto-group-jzml-oBL .auto-group-xcul-iZC {
+  margin-bottom: 1.95rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-1-19p .footer-Ziv .divcontainer-a8E .auto-group-jzml-oBL .auto-group-xcul-iZC .heading-4-explore-links-47G {
+  margin-right: 13.922rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-1-19p .footer-Ziv .divcontainer-a8E .auto-group-jzml-oBL .auto-group-xcul-iZC .heading-4-get-support-VCa {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-1-19p .footer-Ziv .divcontainer-a8E .auto-group-jzml-oBL .auto-group-5uyr-cnz {
+  margin-bottom: 0.45rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.home-1-19p .footer-Ziv .divcontainer-a8E .auto-group-jzml-oBL .auto-group-5uyr-cnz .list-item-link-about-company-xbx {
+  margin-right: 21.322rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5625;
+  color: #949b95;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-1-19p .footer-Ziv .divcontainer-a8E .auto-group-jzml-oBL .auto-group-5uyr-cnz .list-item-vSJ {
+  margin: 0.05rem 1rem 0rem 0.125rem;
+  width: 3rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.home-1-19p .footer-Ziv .divcontainer-a8E .auto-group-jzml-oBL .auto-group-5uyr-cnz .list-item-link-donationgmailcom-1yY {
+  margin-top: 0.3rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5625;
+  text-decoration-line: underline;
+  color: #949b95;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-1-19p .footer-Ziv .divcontainer-a8E .auto-group-jzml-oBL .auto-group-tcnr-gpn {
+  margin-bottom: 0.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-1-19p .footer-Ziv .divcontainer-a8E .auto-group-jzml-oBL .auto-group-tcnr-gpn .auto-group-dkmg-dk2 {
+  margin: 0.05rem 12.222rem 0rem 0rem;
+  height: 6rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-1-19p .footer-Ziv .divcontainer-a8E .auto-group-jzml-oBL .auto-group-tcnr-gpn .auto-group-dkmg-dk2 .list-item-link-latest-projects-m5Y {
+  margin-bottom: 1rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5625;
+  color: #949b95;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-1-19p .footer-Ziv .divcontainer-a8E .auto-group-jzml-oBL .auto-group-tcnr-gpn .auto-group-dkmg-dk2 .list-item-link-latest-blog-4aS {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5625;
+  color: #949b95;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-1-19p .footer-Ziv .divcontainer-a8E .auto-group-jzml-oBL .auto-group-tcnr-gpn .auto-group-nrsq-Nr2 {
+  margin: 0rem 7.5rem 0rem;
+  height: 6rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-1-19p .footer-Ziv .divcontainer-a8E .auto-group-jzml-oBL .auto-group-tcnr-gpn .list-item-hmp {
+  margin: 0.05rem 1rem 0rem -15rem;
+  width: 3rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.home-1-19p .footer-Ziv .divcontainer-a8E .auto-group-jzml-oBL .auto-group-tcnr-gpn .list-item-link-88-111-222-333-RSv {
+  margin-top: 0.05rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5625;
+  color: #949b95;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-1-19p .footer-Ziv .divcontainer-a8E .auto-group-jzml-oBL .auto-group-emjn-Y1k {
+  margin-bottom: 0.95rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.home-1-19p .footer-Ziv .divcontainer-a8E .auto-group-jzml-oBL .auto-group-emjn-Y1k .list-item-qf4 {
+  margin-right: -18rem;
+  margin-left: 27.0625rem;
+  width: 3rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.home-1-19p .footer-Ziv .divcontainer-a8E .auto-group-jzml-oBL .auto-group-emjn-Y1k .list-item-link-tropical-cyclone-volcano-vwQ {
+  margin-left: 19.3125rem;
+  margin-bottom: 0.25rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5625;
+  color: #949b95;
+  font-family: Inter, 'Source Sans Pro';
+  text-decoration-line: underline;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-1-19p .footer-Ziv .divcontainer-a8E .auto-group-jzml-oBL .auto-group-ounz-e6i {
+  margin-right: 82.178rem;
+  width: calc(100% - 82.178rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-1-19p .footer-Ziv .divcontainer-a8E .separator-PyQ {
+  width: 98%;
+  height: 1.2rem;
+  overflow: hidden;
+  position: relative;
+  border: solid 0.1rem rgba(93, 107, 105, 0.25);
+  box-sizing: border-box;
+}
+.home-1-19p .footer-Ziv .copyright-2023-inittheme-all-rights-reserved-8g6 {
+  width: 36.7rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 5.1141rem;
+  top: 38.8rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5625;
+  color: #949b95;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-1-19p .footer-Ziv .list-item-link-ZmQ {
+  width: 3.8rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 98.6rem;
+  top: 38.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 1rem;
+}
+.home-1-19p .footer-Ziv .list-item-link-rEi {
+  width: 3.8rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 103.8rem;
+  top: 38.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 1rem;
+}
+.home-1-19p .footer-Ziv .list-item-link-Umt {
+  width: 3.8rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 109.2rem;
+  top: 38.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 1rem;
+} 
+.nav * {
+  box-sizing: border-box;
+  transition: all .35s ease;
+}
+
+.nav li {
+  display: inline-block;
+  list-style: outside none none;
+  margin: .5em 0.625rem; /* Ajustado el margen vertical */
+  padding: 0;
+}
+.nav li button {
+  display: inline-block;
+  list-style: outside none none;
+  margin: .5em 0.625rem; /* Ajustado el margen vertical */
+  padding: 0;
+}
+.nav a {
+  padding: .5em .8em;
+  color: rgb(0, 0, 0);
+  position: relative;
+  text-decoration: none;
+  font-size: 2.25rem;
+}
+
+.nav a::before,
+.nav a::after {
+  content: '';
+  height: 0.875rem;
+  width: 0.875rem;
+  position: absolute;
+  transition: all .35s ease;
+  opacity: 0;
+}
+
+.nav a::before {
+  right: 0;
+  top: 0;
+  border-top: 0.1875rem solid #3E8914;
+  border-right: 0.1875rem solid #2E640F;
+  transform: translate(-100%, 50%);
+}
+
+.nav a:after {
+  left: 0;
+  bottom: 0;
+  border-bottom: 0.1875rem solid #2E640F;
+  border-left: 0.1875rem solid #3E8914;
+  transform: translate(100%, -50%);
+}
+
+.nav a:hover:before,
+.nav a:hover:after {
+  transform: translate(0, 0);
+  opacity: 1;
+}
+
+.nav a:hover {
+  color: #3DA35D;
+}
+
+/* Dropdown Styles */
+.dropdown,
+.dropdown2 {
+  position: relative;
+  display: inline-block;
+  margin-right: 10px; /* Ajusta el margen entre Insumos e Instrumentos */
+}
+
+.dropbtn,
+.dropbtn2 {
+  padding: .5em .8em;
+  color: rgb(0, 0, 0);
+  background-color: transparent;
+  border: none;
+  font-size: 20px;
+  cursor: pointer;
+  position: relative;
+}
+
+.dropbtn:hover,
+.dropbtn2:hover {
+  color: #3DA35D;
+}
+
+.dropbtn:hover::before,
+.dropbtn:hover::after,
+.dropbtn2:hover::before,
+.dropbtn2:hover::after {
+  transform: translate(0, 0);
+  opacity: 1;
+}
+
+.dropdown-content,
+.dropdown-content2 {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+  z-index: 1;
+  border-radius: 4px;
+  padding: 8px 0;
+}
+
+.dropdown-content a,
+.dropdown-content2 a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover,
+.dropdown-content2 a:hover {
+  background-color: #f1f1f1;
+}
+
+.dropdown:hover .dropdown-content,
+.dropdown2:hover .dropdown-content,
+.dropdown2:hover .dropdown-content2 {
+  display: block;
+}
+.dropdown3,
+.dropdown4 {
+  position: relative;
+  display: inline-block;
+}
+
+.dropbtn3,
+.dropbtn4 {
+  padding: .5em .8em;
+  color: rgb(0, 0, 0);
+  background-color: transparent;
+  border: none;
+  font-size: 20px;
+  cursor: pointer;
+  position: relative;
+  margin-right: 10px;
+}
+
+.dropbtn3:hover,
+.dropbtn4:hover {
+  color: #3DA35D;
+}
+
+.dropbtn3:hover::before,
+.dropbtn3:hover::after,
+.dropbtn4:hover::before,
+.dropbtn4:hover::after {
+  transform: translate(0, 0);
+  opacity: 1;
+}
+
+.dropdown-content3,
+.dropdown-content4 {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+  z-index: 1;
+  border-radius: 4px;
+  padding: 8px 0;
+}
+
+.dropdown-content3 a,
+.dropdown-content4 a {
+  color: rgb(0, 0, 0);
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content3 a:hover,
+.dropdown-content4 a:hover {
+  background-color: #f1f1f1;
+}
+
+.dropdown3:hover .dropdown-content3,
+.dropdown4:hover .dropdown-content4 {
+  display: block;
+}
+.nav-list-item-link-contact-1WN {
+  padding: .5em .8em;
+  color: rgba(0, 0, 0, 0.5);
+  position: relative;
+  text-decoration: none;
+  font-size: 1.25rem;
+}
+.nav-list-item-link-contact-1WN:hover {
+  color: #3DA35D;
+}
+
+.nav-list-item-link-contact-1WN:hover:before,
+.nav-list-item-link-contact-1WN:hover:after {
+  transform: translate(0, 0);
+  opacity: 1;
+}
+.carousel {
+  width: 74%;
+  height: 54.0625rem;
+  left: 1rem;
+  overflow: hidden;
+  position: relative;
+}
+
+.carousel img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  left: 0;
+  transition: transform 0.5s ease-in-out;
+}
+
+.carousel img:nth-child(1) {
+  transform: translateX(0%);
+}
+
+.carousel img:nth-child(2) {
+  transform: translateX(100%);
+}
+
+.carousel img:nth-child(3) {
+  transform: translateX(200%);
+}
+
+.carousel img:nth-child(4) {
+  transform: translateX(300%);
+}
+
+.carousel.animating img {
+  transition: transform 0.5s linear;
+}
+
+.carousel.animating img:nth-child(1) {
+  transform: translateX(-100%);
+}
+
+.carousel.animating img:nth-child(2) {
+  transform: translateX(0%);
+}
+
+.carousel.animating img:nth-child(3) {
+  transform: translateX(100%);
+}
+
+.carousel.animating img:nth-child(4) {
+  transform: translateX(200%);
+}
